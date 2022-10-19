@@ -1,0 +1,18 @@
+span {
+  display: flex;
+  justify-content: end;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+#button-wrapper {
+  display: flex;
+  justify-content: end;
+}
+
+#pagination {
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=manage-members.css.map */
